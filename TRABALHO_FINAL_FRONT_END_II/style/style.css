@@ -1,0 +1,33 @@
+body
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background-color: antiquewhite;
+    }
+
+
+button
+    {
+        display:flex;
+        justify-content: center;
+        align-items:center;
+    }
+
+
+.div1
+    {
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction: column;
+    }
+
+.divs2
+    {
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-direction: row;
+    }
